@@ -38,9 +38,21 @@ export default function Experience() {
       ],
     },
     {
+      company: "Optimum Tech",
+      location: "Faisalabad, Pakistan",
+      period: "Feb 2023 - June 2023",
+      role: "Web Developer Intern(Backend)",
+      responsibilities: [
+        "Develop server-side logic to handle requests from the frontend",
+        "Design and manage databases, including creating and optimizing queries",
+        "Use version control systems (e.g., Git) to manage and track changes in the codebase",
+        "Participating in code reviews and providing constructive feedback to other developers",
+      ],
+    },
+    {
       company: "Micrologix",
       location: "Faisalabad, Pakistan",
-      period: "July 2022 - March 2023",
+      period: "July 2022 - Jan 2023",
       role: "Frontend Developer",
       responsibilities: [
         "Implement responsive and visually appealing user interfaces based on design mockups and wireframes",
@@ -48,15 +60,6 @@ export default function Experience() {
         "Work closely with UI/UX designers to understand design requirements and implement design elements accurately",
         "Implement responsive design principles to ensure a consistent and optimal user experience on various devices, including desktops, tablets, and mobile phones",
       ],
-      // responsibilities: [
-      //   "Migrated codebase to Nodejs with TypeScript",
-      //   "Built backend REST API and OAuth",
-      //   "Integrated third-party APIs",
-      //   "Implemented i18n features",
-      //   "Developed reusable UI components with React and Tailwind CSS",
-      //   "Optimized frontend performance using Next.js features like ISR and SSR",
-      //   "Managed global state efficiently using Redux Toolkit"
-      // ],
     },
   ]
 
