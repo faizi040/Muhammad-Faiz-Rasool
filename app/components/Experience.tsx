@@ -49,18 +49,18 @@ export default function Experience() {
         "Participating in code reviews and providing constructive feedback to other developers",
       ],
     },
-    {
-      company: "Micrologix",
-      location: "Faisalabad, Pakistan",
-      period: "July 2022 - Jan 2023",
-      role: "Frontend Developer",
-      responsibilities: [
-        "Implement responsive and visually appealing user interfaces based on design mockups and wireframes",
-        "Write HTML, CSS, and JavaScript code to create web pages and UI components",
-        "Work closely with UI/UX designers to understand design requirements and implement design elements accurately",
-        "Implement responsive design principles to ensure a consistent and optimal user experience on various devices, including desktops, tablets, and mobile phones",
-      ],
-    },
+    // {
+    //   company: "Micrologix",
+    //   location: "Faisalabad, Pakistan",
+    //   period: "July 2022 - Jan 2023",
+    //   role: "Frontend Developer",
+    //   responsibilities: [
+    //     "Implement responsive and visually appealing user interfaces based on design mockups and wireframes",
+    //     "Write HTML, CSS, and JavaScript code to create web pages and UI components",
+    //     "Work closely with UI/UX designers to understand design requirements and implement design elements accurately",
+    //     "Implement responsive design principles to ensure a consistent and optimal user experience on various devices, including desktops, tablets, and mobile phones",
+    //   ],
+    // },
   ]
 
   return (
